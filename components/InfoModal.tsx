@@ -134,7 +134,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
 
                     <div className="flex flex-wrap justify-center gap-4">
                         <a 
-                            href="https://dovvnloading.github.io/" 
+                            href="https://matt-wesney.github.io/website/" 
                             target="_blank" 
                             rel="noopener noreferrer"
                             className={linkClass}
